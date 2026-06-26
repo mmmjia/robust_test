@@ -1,0 +1,10 @@
+.claude/
+._*
+*.log
+__pycache__/
+split_1/
+split_2/
+split_3/
+cov_results_split_1/
+cov_results_split_2/
+cov_results_split_3/
